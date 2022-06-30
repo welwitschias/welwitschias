@@ -29,10 +29,12 @@
   
   </div>
 
-<!-- 이모지 : https://www.emojicopy.com/ -->
-<!-- 방문자 수 뱃지 만들기 : https://hits.seeyoufarm.com/ -->
-<!-- 스탯 표시하기 : https://github.com/anuraghazra/github-readme-stats -->
-<!-- 뱃지 만들기 : https://shields.io/ -->
-<!-- 아이콘 SVG : https://simpleicons.org/ -->
-<!-- 뱃지들 모음 : https://github.com/Ileriayo/markdown-badges -->
-<!-- 꾸미는 법 참고 : https://myvelop.tistory.com/162 -->
+<!-- 
+이모지 : https://www.emojicopy.com/ https://www.emojiengine.com/ko/keyboard/
+방문자 수 뱃지 만들기 : https://hits.seeyoufarm.com/
+깃허브 스탯 표시하기 : https://github.com/anuraghazra/github-readme-stats
+뱃지 만들기 : https://shields.io/
+아이콘 SVG : https://simpleicons.org/
+뱃지들 모음 : https://github.com/Ileriayo/markdown-badges
+꾸미는 법 참고 : https://myvelop.tistory.com/162
+ -->
