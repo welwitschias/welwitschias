@@ -32,7 +32,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-## Contacts ✉️
+## ✉️ Contacts
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:welwitschia_@naver.com)](mailto:welwitschia_@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welwitschias48@gmail.com)](mailto:welwitschias48@gmail.com)
