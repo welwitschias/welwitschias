@@ -43,6 +43,8 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:welwitschia_@naver.com)](mailto:welwitschia_@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welwitschias48@gmail.com)](mailto:welwitschias48@gmail.com)
 
+  
+  </div>
 
 <!-- 
 이모지 : https://www.emojicopy.com/ https://www.emojiengine.com/ko/keyboard/
