@@ -1,14 +1,8 @@
-  <div align=center>
+<div align=center>
 
 # Hello!😄
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwelwitschias&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-![welwitschias's GitHub stats](https://github-readme-stats.vercel.app/api?username=welwitschias&count_private=true&show_icons=true&theme=algolia)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welwitschias&langs_count=10&layout=compact)
-  
-  
 ## 📋 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +12,9 @@
 ## 💾 Databases 
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 ## ☁️ Hosting/SaaS
@@ -35,7 +32,9 @@
 ## 📚 Frameworks
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 
 ## ✉️ Contacts
@@ -44,7 +43,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welwitschias48@gmail.com)](mailto:welwitschias48@gmail.com)
 
   
-  </div>
+</div>
 
 <!-- 
 이모지 : https://www.emojicopy.com/ https://www.emojiengine.com/ko/keyboard/
