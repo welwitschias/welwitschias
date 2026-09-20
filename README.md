@@ -39,11 +39,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## Selected Work
-
-- **[Project Name]** — 한 줄로 문제와 해결한 가치를 설명합니다.
-- **[Project Name]** — 사용 기술보다 결과와 역할을 중심으로 설명합니다.
-- **[Project Name]** — 저장소 링크를 연결합니다.
 
 <details>
 <summary>More about me</summary>
